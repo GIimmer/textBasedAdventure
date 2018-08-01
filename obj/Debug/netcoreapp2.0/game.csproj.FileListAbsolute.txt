@@ -1,0 +1,10 @@
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\obj\Debug\netcoreapp2.0\game.csproj.CoreCompileInputs.cache
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\obj\Debug\netcoreapp2.0\game.AssemblyInfoInputs.cache
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\obj\Debug\netcoreapp2.0\game.AssemblyInfo.cs
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\bin\Debug\netcoreapp2.0\game.deps.json
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\bin\Debug\netcoreapp2.0\game.runtimeconfig.json
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\bin\Debug\netcoreapp2.0\game.runtimeconfig.dev.json
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\bin\Debug\netcoreapp2.0\game.dll
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\bin\Debug\netcoreapp2.0\game.pdb
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\obj\Debug\netcoreapp2.0\game.dll
+C:\Users\riley_000\Documents\Education\Coding Dojo\Week 7\Tuesday\game\obj\Debug\netcoreapp2.0\game.pdb
